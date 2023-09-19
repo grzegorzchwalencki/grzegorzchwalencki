@@ -3,14 +3,14 @@ I'm Grzegorz and I aspire to become a software tester.
 
 ### I'm familiar with
 [![My Skills](https://skillicons.dev/icons?i=python,bash)](https://skillicons.dev) 
-Python Bash
-- [x] Selenium
-- [x] Git GitHub
-- [x] CircleCI
-- [x] JMeter
-- [x] Postman
-- [x] JIRA Zephyr Scale   
-<!--
+[![My Skills](https://skillicons.dev/icons?i=selenium)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=circleci)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=jmeter)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=postman)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=jira)](https://skillicons.dev) 
+
+
 **grzegorzchwalencki/grzegorzchwalencki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -23,4 +23,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- - [x] Selenium
+- [x] Git GitHub
+- [x] CircleCI
+- [x] JMeter
+- [x] Postman
+- [x] JIRA Zephyr Scale   
+<!--
 -->
