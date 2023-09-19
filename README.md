@@ -1,7 +1,7 @@
-### It's good to see you on my GitHub 👋
+## It's good to see you on my GitHub 👋
 I'm Grzegorz and I aspire to become a software tester.
 
-# I'm familiar with
+### I'm familiar with
 - [x] Python Bash
 - [x] Selenium
 - [x] Git GitHub
