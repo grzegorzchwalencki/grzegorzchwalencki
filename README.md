@@ -12,5 +12,6 @@ I'm Grzegorz and I aspire to become a software tester.
 
 ### My projects
 - [e-commerce-webapp-selenium-python-E2E-tests](https://github.com/grzegorzchwalencki/e-commerce-webapp-selenium-python-E2E-tests)
+- [webapp-performance-test-project](https://github.com/grzegorzchwalencki/webapp-performance-test-project) 
 
 
