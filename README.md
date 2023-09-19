@@ -11,6 +11,6 @@ I'm Grzegorz and I aspire to become a software tester.
 - Postman
 
 ### My projects
-- [e-commerce-webapp-selenium-python-E2E-tests]([https://github.com/Patt-T/portfolio/tree/main/selenium_test_scripts](https://github.com/grzegorzchwalencki/e-commerce-webapp-selenium-python-E2E-tests)https://github.com/grzegorzchwalencki/e-commerce-webapp-selenium-python-E2E-tests)
+- [e-commerce-webapp-selenium-python-E2E-tests]([(https://github.com/grzegorzchwalencki/e-commerce-webapp-selenium-python-E2E-tests)https://github.com/grzegorzchwalencki/e-commerce-webapp-selenium-python-E2E-tests])
 
 
