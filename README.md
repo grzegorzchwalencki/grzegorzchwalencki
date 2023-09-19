@@ -2,7 +2,7 @@
 I'm Grzegorz and I aspire to become a software tester.
 
 ### I'm familiar with
-- [x] Python Bash
+- [x] [![My Skills](https://skillicons.dev/icons?i=python,bash](https://skillicons.dev) Python Bash
 - [x] Selenium
 - [x] Git GitHub
 - [x] CircleCI
