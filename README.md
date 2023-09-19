@@ -1,4 +1,8 @@
-### Hi there 👋
+### It's good to see you on my GitHub 👋
+I'm Grzegorz and I aspire to become a software tester.
+
+# My Tech Stack
+- [x] #3776AB Python #4EAA25 Bash
 
 <!--
 **grzegorzchwalencki/grzegorzchwalencki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
