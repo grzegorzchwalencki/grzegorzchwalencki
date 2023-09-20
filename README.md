@@ -1,5 +1,5 @@
 ## It's good to see you on my GitHub 👋
-I'm Grzegorz and I aspire to become a software tester.
+I'm Grzegorz and I want to become a software tester.
 
 ### I'm familiar with
 - Python, Bash
