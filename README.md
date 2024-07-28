@@ -1,14 +1,14 @@
 ## It's good to see you on my GitHub 👋
-I'm Grzegorz and I want to become a software tester.
+I'm Grzegorz and I'm in a constant process of learning and developing new skils
 
 ### I'm familiar with
-- Python, Bash
-- Selenium
+- Java, Bash, Python
+- Selenium, TestFx
 - Git, GitHub
-- CircleCi
-- Jira, Zephyr Scale
 - JMeter
-- Postman
+- SoapUI/ReadyAPI, Postman
+- CircleCi
+- Jira, Confluence
 
 ### My projects
 - [e-commerce-webapp-selenium-python-E2E-tests](https://github.com/grzegorzchwalencki/e-commerce-webapp-selenium-python-E2E-tests)
