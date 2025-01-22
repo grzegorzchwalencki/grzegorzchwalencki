@@ -10,6 +10,7 @@ I'm Grzegorz and I'm in a constant process of learning and developing new skils
 - Building tools: Maven, Gradle
 - CI/CD: CircleCi
 - Atlassan stack: Jira, Confluence
+- Project management: Agile, Scrum
 
 ### My projects
 - [budget-control-app](https://github.com/grzegorzchwalencki/budget-control-app)
